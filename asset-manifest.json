@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/second-hand-market-/static/css/main.700e9f85.css",
+    "main.css": "/second-hand-market-/static/css/main.d8db2c6d.css",
     "main.js": "/second-hand-market-/static/js/main.c35c19fa.js",
     "static/js/787.d362273e.chunk.js": "/second-hand-market-/static/js/787.d362273e.chunk.js",
     "index.html": "/second-hand-market-/index.html",
-    "main.700e9f85.css.map": "/second-hand-market-/static/css/main.700e9f85.css.map",
+    "main.d8db2c6d.css.map": "/second-hand-market-/static/css/main.d8db2c6d.css.map",
     "main.c35c19fa.js.map": "/second-hand-market-/static/js/main.c35c19fa.js.map",
     "787.d362273e.chunk.js.map": "/second-hand-market-/static/js/787.d362273e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.700e9f85.css",
+    "static/css/main.d8db2c6d.css",
     "static/js/main.c35c19fa.js"
   ]
 }
